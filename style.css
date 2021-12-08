@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+#saatBolumu {
+    text-align: center;
+    background-color: black;
+    width: 700px;
+    height: 300px;
+    margin-top: 300px;
+}
+
+#isim {
+    color: blanchedalmond;
+    font-size: 30px;
+}
+
+#date {
+    color: blanchedalmond;
+    font-size: 20px;
+    
+}
+
+#hour {
+    color: blanchedalmond;
+    font-size: 30px;
+}
+
+p{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
